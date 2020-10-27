@@ -25,9 +25,9 @@ Metrics used:
 Accuracy, R2, MSE, MAE, ROC Curve.
 
 <br>
-  <b> 02. PCA_kPCA_Breast_Ejercicios.ipynb:</b> Utilización de algoritmos para reducción de la dimensionalidad. 
+  <b> 02. PCA_kPCA_Breast_Ejercicios.ipynb:</b>Use of algorithms to reduce dimensionality.
 
-Principales herramientas: 
+Main tools:
 
 PCA, KernelPCA.
 
