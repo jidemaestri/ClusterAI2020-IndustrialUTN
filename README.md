@@ -4,7 +4,7 @@ El trabajo de este repositorio fue hecho en la asignatura "Ciencia de Datos", co
 
 The work of this repository was done in the subject "Data Science", corresponding to the university career of Industrial Engineering at the Universidad Tecnológica Nacional, Buenos Aires, Argentina.
 
-00) Subtes-BuenosAires.ipynb: Work done that corresponds to an Exploratory Data Analysis of the Subway network of Buenos Aires City.
+<b>00) Subtes-BuenosAires.ipynb:</b> Work done that corresponds to an Exploratory Data Analysis of the Subway network of Buenos Aires City.
 
 Official Data of Buenos Aires Government.
 
