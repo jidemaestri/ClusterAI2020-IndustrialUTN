@@ -3,7 +3,7 @@
 
 <br>
 
-The work of this repository the work was done for the subject "Data Science", regarding the "Industrial Engineering" program at Universidad Tecnológica Nacional, Buenos Aires, Argentina.
+The work of this repository was done at the course "Data Science", regarding the "Industrial Engineering" program at Universidad Tecnológica Nacional, Buenos Aires, Argentina.
 <br>
 
   <b> 00. Subtes-BuenosAires.ipynb:</b> Work that corresponds to an Exploratory Data Analysis of the Subway network of Buenos Aires City.
