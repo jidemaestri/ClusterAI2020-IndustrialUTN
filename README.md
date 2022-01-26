@@ -1,6 +1,5 @@
 # ClusterAI2020-IndustrialUTN
 
-El trabajo de este repositorio fue hecho en la asignatura "Ciencia de Datos", correspondiente a la carrera universitaria de Ingeniería Industrial en Universidad Tecnológica Nacional, Buenos Aires, Argentina.
 
 <br>
 
@@ -33,7 +32,7 @@ PCA, KernelPCA.
 
 <br>
 
-  <b> 03. cluster-AI-2020__clustering_credit.ipynb:</b> Work done learning of Clustering tools.
+  <b> 03. cluster-AI-2020__clustering_credit.ipynb:</b> Work done, learning non supervised algorithms.
 
 Main tools:
 
